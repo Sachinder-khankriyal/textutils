@@ -1,0 +1,15 @@
+.color-circle-list{
+    list-style: none;
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+}
+
+.color-circle{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+    border: 1px solid black;
+    cursor:pointer;
+}
